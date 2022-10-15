@@ -1,5 +1,5 @@
 substitutions:
-  device_name: p1miniTEST
+  device_name: p1minitest
   device_password: !secret p1mini_password
 
 esphome:
